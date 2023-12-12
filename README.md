@@ -1,2 +1,1 @@
-# Python-code
-Python code1
+Print("Sandeep")
